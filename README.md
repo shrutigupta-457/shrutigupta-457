@@ -1,7 +1,7 @@
 <h1 align="center"> Hey 👋🏽, I'm Shruti Gupta </h1>
 
 <h3 align="center">
-    An PHP Developer   
+    A PHP(Laravel) Developer   
 </h3>
 <p align="center">
 <img alt="" src="![image](https://github.com/shrutigupta-457/shrutigupta-457/assets/174925522/cae746f8-c575-4182-9a8d-d911f1924a3e)
@@ -11,8 +11,9 @@
 <h2 align="left">
    About me ✨
 </h2>
-<p>I am </p>
-<img align="right" alt="Person coding gif" src="(https://github.com/shrutigupta-457/shrutigupta-457/assets/174925522/8b5b4658-2bc4-4492-86a8-5735b9b51f71)
+
+<img align="right" alt="Person coding gif" src="![d06903d4947a41449766ed985493d3ad](https://github.com/shrutigupta-457/shrutigupta-457/assets/174925522/2d413ee5-1b60-400d-8909-cc74a9dfd3a9)
+
 " width="200" />
 
 - 👨🏽‍💻 I have just completed my Bachelor's degree in Computer Application.
