@@ -1,10 +1,10 @@
-<h1 align="center"> Hey 👋🏽, I'm Chandan Reddy </h1>
+<h1 align="center"> Hey 👋🏽, I'm Shruti Gupta </h1>
 
 <h3 align="center">
-    An awesome React Developer at <a href="https://www.commutatus.com">Commutatus</a>.  
+    An PHP Developer   
 </h3>
 <p align="center">
-<img alt="Commutatus gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/commutatus.gif" width="90%" />
+<img alt="" src="[https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/commutatus.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fdigital-lifestyle-colombia-ai-generate_62627571.htm&psig=AOvVaw2_bRfsYvxkLe2z65zzsTKu&ust=1720625657911000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjbrqGkmocDFQAAAAAdAAAAABAJ)" width="90%" />
 </p>
 <br/>
 <h2 align="center">
