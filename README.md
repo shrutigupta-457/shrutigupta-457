@@ -10,7 +10,7 @@
 <br/>
 
 
-![d06903d4947a41449766ed985493d3ad](https://github.com/shrutigupta-457/shrutigupta-457/assets/174925522/2d413ee5-1b60-400d-8909-cc74a9dfd3a9)
+![d06903d4947a41449766ed985493d3ad](https://github.com/shrutigupta-457/shrutigupta-457/assets/174925522/2d413ee5-1b60-400d-8909-cc74a9dfd3a9) width="50%"
 
 <h2 align="left">
    About me ✨
