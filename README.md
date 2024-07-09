@@ -12,7 +12,7 @@
    About me ✨
 </h2>
 <p>I am </p>
-<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
+<img align="right" alt="Person coding gif" src="![d06903d4947a41449766ed985493d3ad](https://github.com/shrutigupta-457/shrutigupta-457/assets/174925522/f2b00f22-1979-4c29-a67f-d40283b7c350)" width="200" />
 
 - 👨🏽‍💻 I have just completed my Bachelor's degree in Computer Application.
 - 🌱 I’m currently exploring React with a big interest as a Frontend Developer . 
