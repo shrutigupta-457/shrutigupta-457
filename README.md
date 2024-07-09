@@ -8,13 +8,13 @@
 " width="90%" />
 </p>
 <br/>
+
+
+![d06903d4947a41449766ed985493d3ad](https://github.com/shrutigupta-457/shrutigupta-457/assets/174925522/2d413ee5-1b60-400d-8909-cc74a9dfd3a9)
+
 <h2 align="left">
    About me ✨
 </h2>
-
-<img align="right" alt="Person coding gif" src="![d06903d4947a41449766ed985493d3ad](https://github.com/shrutigupta-457/shrutigupta-457/assets/174925522/2d413ee5-1b60-400d-8909-cc74a9dfd3a9)
-
-" width="200" />
 
 - 👨🏽‍💻 I have just completed my Bachelor's degree in Computer Application.
 - 🌱 I’m currently exploring React with a big interest as a Frontend Developer . 
