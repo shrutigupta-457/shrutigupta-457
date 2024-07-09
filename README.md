@@ -4,22 +4,21 @@
     An PHP Developer   
 </h3>
 <p align="center">
-<img alt="" src="[https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/commutatus.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fdigital-lifestyle-colombia-ai-generate_62627571.htm&psig=AOvVaw2_bRfsYvxkLe2z65zzsTKu&ust=1720625657911000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjbrqGkmocDFQAAAAAdAAAAABAJ)" width="90%" />
+<img alt="" src="![image](https://github.com/shrutigupta-457/shrutigupta-457/assets/174925522/cae746f8-c575-4182-9a8d-d911f1924a3e)
+" width="90%" />
 </p>
 <br/>
-<h2 align="center">
-    I create user experiences that are:
+<h2 align="left">
+   About me ✨
 </h2>
+<p>I am </p>
 <img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 
-- **Responsive ✅**
-- **Intuitive 🤩**
-- **Dynamic 🧬**
-- **Reusable ♻️**
-- **Secure 🛡️**
-- **Load blazing fast 🚀**
-- **SEO Optimized 🔍**
-- **Crafted with pixel-perfect code ✨**
+- 👨🏽‍💻 I have just completed my Bachelor's degree in Computer Application.
+- 🌱 I’m currently exploring React with a big interest as a Frontend Developer . 
+- 🤔 My interests are website security, video processing and developing some useful and cool stuff xD
+- 💬 Ask me about anything, I love to answer!
+- 📫 Email me at [8340shrutigupta@gmail.com](mailto:8340shrutigupta@gmail.com).
 
 
 <br/>
@@ -61,12 +60,8 @@
 
 <br/>
 
-<h2 align="center">
-  Do you speak <b>தமிழ்</b>? It's ok if you don't. 
-</h2>
-<h3 align="center">
-  I speak English too, Get in touch.
-</h3>
+
+
 <br/>
 <p align="center">
  <a href="mailto:chandu25.srm@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
@@ -79,4 +74,4 @@
 
 <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
 
-⭐️ From [chandan-reddy-k](https://github.com/chandan-reddy-k)
+⭐️ From [shrutigupta-457](https://github.com/chandan-reddy-k)
