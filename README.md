@@ -2,7 +2,7 @@
 
 <h3 align="center">
     A Passionate PHP(Laravel) Developer from India
-</h3>
+</h3> 
 <p align="center">
 <img alt="" src="![image](https://github.com/shrutigupta-457/shrutigupta-457/assets/174925522/cae746f8-c575-4182-9a8d-d911f1924a3e)
 " width="90%" />
