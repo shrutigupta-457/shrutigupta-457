@@ -10,15 +10,15 @@
 <br/>
 
 
-![d06903d4947a41449766ed985493d3ad](https://github.com/shrutigupta-457/shrutigupta-457/assets/174925522/2d413ee5-1b60-400d-8909-cc74a9dfd3a9) width="50%"
+![d06903d4947a41449766ed985493d3ad](https://github.com/shrutigupta-457/shrutigupta-457/assets/174925522/2d413ee5-1b60-400d-8909-cc74a9dfd3a9)
 
 <h2 align="left">
    About me ✨
 </h2>
 
 - 👨🏽‍💻 I have just completed my Bachelor's degree in Computer Application.
-- 🌱 I’m currently exploring React with a big interest as a Frontend Developer . 
-- 🤔 My interests are website security, video processing and developing some useful and cool stuff xD
+- 🌱 I’m currently exploring React with a big interest as a Frontend Developer. 
+- 🤔 My interests are website security, linux and developing some useful and cool stuff website/software.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [8340shrutigupta@gmail.com](mailto:8340shrutigupta@gmail.com).
 
