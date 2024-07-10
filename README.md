@@ -1,7 +1,7 @@
 <h1 align="center"> Hey 👋🏽, I'm Shruti Gupta </h1>
 
 <h3 align="center">
-    A PHP(Laravel) Developer   
+    A Passionate PHP(Laravel) Developer from India
 </h3>
 <p align="center">
 <img alt="" src="![image](https://github.com/shrutigupta-457/shrutigupta-457/assets/174925522/cae746f8-c575-4182-9a8d-d911f1924a3e)
@@ -74,6 +74,6 @@
   <a href="https://medium.com/@chandan.reddy"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/medium.svg" width="30px" alt="medium"></a> &nbsp; &nbsp;
 </p>
 
-<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
+
 
 ⭐️ From [shrutigupta-457](https://github.com/chandan-reddy-k)
